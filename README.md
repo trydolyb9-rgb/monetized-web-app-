@@ -8,9 +8,9 @@
     ```
 2. Запустіть сервер:
     ```
-    node server.js
+    app.listen(3000)
     ```
-3. Перейдіть у браузері на [http://localhost:3000](http://localhost:3000)
+   (http://localhost:3000)
 
 ## Функціонал
 
