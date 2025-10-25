@@ -4,13 +4,13 @@
 
 1. Встановіть залежності:
     ```
-    npm install express
+    npm install expressnpm install express
     ```
 2. Запустіть сервер:
     ```
     node server.js
     ```
-3. Перейдіть у браузері на [http://localhost:3000](http://localhost:3000)
+3. Перейдіть у браузері на [http://localhost:3000](http://localhost:3000)1
 
 ## Функціонал
 
