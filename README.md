@@ -4,7 +4,7 @@
 
 1. Встановіть залежності:
     ```
-    npm install express
+    npm install expressnpm install express
     ```
 2. Запустіть сервер:
     ```
